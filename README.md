@@ -5,7 +5,7 @@ In this project you are given the skeleton/structure/styling of a React app. The
 ## Introduction
 
 ---
-
+[x] re-submit since my pull request was wrong...
 Read these instructions carefully. Understand exactly what is expected before starting this project.
 
 ## Commits
